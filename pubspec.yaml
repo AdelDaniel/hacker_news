@@ -30,7 +30,7 @@ dependencies:
   sqflite:
   path_provider:
   http:
-  connectivity:
+  connectivity_plus:
   rxdart:
   flutter_html:
   lint:

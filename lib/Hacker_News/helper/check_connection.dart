@@ -1,7 +1,7 @@
 import 'dart:async'; //For StreamController/Stream
 import 'dart:io'; //InternetAddress utility
 
-import 'package:connectivity/connectivity.dart';
+import 'package:connectivity_plus/connectivity_plus.dart';
 
 class ConnectionStatusSingleton {
   //This creates the single instance by calling the `_internal` constructor specified below
