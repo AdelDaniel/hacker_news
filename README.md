@@ -1,5 +1,9 @@
 # Hacker News
 
+[![style: lint](https://img.shields.io/badge/style-lint-4BC0F5.svg)](https://pub.dev/packages/lint)
+
+![style: lint](https://img.shields.io/badge/-RxDart-green)
+
 <br />
 <p align="center">
   <a href="#">
